@@ -11,7 +11,7 @@
     margin: 0;
  }
  .abas{
-    border-bottom: 2px solid black;
+    border-bottom: 2px solid  color: --var(--cor-texto);;
     background-color: #C4A092;
     display: flex;
     font-family: "EB Garamond", serif;;
