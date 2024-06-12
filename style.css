@@ -7,11 +7,11 @@
 
  body{
     background-color: #F6F3EE;
-    color: --var(--cor-texto);
+    color: var(--cor-texto);
     margin: 0;
  }
  .abas{
-    border-bottom: 2px solid  color: --var(--cor-texto);;
+    border-bottom: 2px solid  var(--cor-texto);;
     background-color: #C4A092;
     display: flex;
     font-family: "EB Garamond", serif;;
@@ -26,10 +26,10 @@
 
 ul li{
     list-style: none;
-    border-right: 1px solid  --var(--cor-texto);;;
+    border-right: 1px solid  var(--cor-texto);;;
 }
 a{
-     color: --var(--cor-texto);
+     color: var(--cor-texto);
     text-decoration: none;
 }
 
