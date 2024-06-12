@@ -4,4 +4,5 @@
  }
  .abas{
     background-color: #C4A092;
- }
+    display: flex;
+}
