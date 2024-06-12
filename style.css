@@ -16,9 +16,12 @@
 
 ul li{
     list-style: none;
-    align-items: center;
 }
 a{
     color: #544541;
     text-decoration: none;
+}
+
+.div-lista{
+    justify-content: center;
 }
