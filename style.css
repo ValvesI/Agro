@@ -23,5 +23,6 @@ a{
 }
 
 .div-lista{
-    justify-content: center;
+    position: fixed;
+    right: 0;
 }
