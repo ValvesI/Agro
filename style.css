@@ -1,14 +1,17 @@
  /* imports */
 @import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..800;1,400..800&display=swap');
  
-
+:root {
+    --cor-texto: #544541;
+  }
 
  body{
     background-color: #F6F3EE;
-    color: #544541;
+    color: --var(--cor-texto);
     margin: 0;
  }
  .abas{
+    border-bottom: 2px solid black;
     background-color: #C4A092;
     display: flex;
     font-family: "EB Garamond", serif;;
@@ -23,10 +26,10 @@
 
 ul li{
     list-style: none;
-    border-right: 1px solid #544541;;
+    border-right: 1px solid  --var(--cor-texto);;;
 }
 a{
-    color: #544541;
+     color: --var(--cor-texto);
     text-decoration: none;
 }
 
