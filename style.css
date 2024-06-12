@@ -8,5 +8,8 @@
 }
 .lista{
     display: flex;
-    
+
+}
+.lista-item{
+    padding: 0  20px;
 }
