@@ -42,3 +42,7 @@ a{
     margin: 25px;
 
 }
+.seila{
+    display: flex;
+    flex-direction: row;
+}
