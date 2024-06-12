@@ -23,6 +23,7 @@
 
 ul li{
     list-style: none;
+    border-right: 1px solid #544541;;
 }
 a{
     color: #544541;
