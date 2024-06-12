@@ -16,8 +16,9 @@
 
 ul li{
     list-style: none;
+    align-items: center;
 }
 a{
-    color: black;
+    color: #544541;
     text-decoration: none;
 }
