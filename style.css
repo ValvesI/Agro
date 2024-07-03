@@ -62,9 +62,12 @@ a{
     .cafe{
         margin-left: 0px;
     }
+    .agro{
+        display: none;
+    }
   }
   
-  @media only screen and (min-width: 1024px) and (max-width: 1727px) {
+  @media only screen and (min-width: 600px) and (max-width: 1024px) {
     /* For tablets: */
     .agro{
         display: none;
@@ -73,6 +76,6 @@ a{
         margin-left: 255px;
     }
   }
-  @media only screen and (min-width: 1728px) {
+  @media only screen and (min-width: 1024px) {
     /* For desktop: */
   }
