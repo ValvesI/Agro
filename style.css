@@ -15,7 +15,7 @@
     background-color: #C4A092;
     display: flex;
     font-family: "EB Garamond", serif;;
-    width: auto;
+    width: 100%;
 }
 .lista{
     display: flex;
