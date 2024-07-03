@@ -49,6 +49,7 @@ a{
 .seila{
     display: flex;
     flex-direction: row;
+    margin-left: 90px;
 }
 
 .cafe{
