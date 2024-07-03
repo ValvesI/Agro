@@ -43,6 +43,7 @@ a{
 
 .titulo-aba{
     margin: 25px;
+    margin-left: 90px;
 
 }
 .seila{
@@ -58,6 +59,7 @@ a{
 
 .titulo{
     font-size: 40px;
+    margin-left: 90px;
 }
 
 /* For mobile phones: */
