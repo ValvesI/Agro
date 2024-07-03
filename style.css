@@ -58,8 +58,10 @@ a{
 }
 
 /* For mobile phones: */
-[class*="col-"] {
-    width: 100%;
+  @media only screen and (max-width: 768px) {
+    .cafe{
+        margin-left: 0px;
+    }
   }
   
   @media only screen and (max-width: 1024px) {
