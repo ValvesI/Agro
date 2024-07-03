@@ -50,6 +50,7 @@ a{
 .cafe{
     width: 500px;
     margin-left: 500px;
+
 }
 
 .titulo{
@@ -67,7 +68,7 @@ a{
         display: none;
     }
     .cafe{
-        margin-left: 0px;
+        margin-left: 100px;
     }
   }
   @media only screen and (min-width: 1728px) {
