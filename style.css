@@ -66,6 +66,9 @@ a{
     .agro{
         display: none;
     }
+    .cafe{
+        margin-left: 0px;
+    }
   }
   @media only screen and (min-width: 1728px) {
     /* For desktop: */
