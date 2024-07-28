@@ -106,7 +106,7 @@ header{
 
 }
 .emails{
-    display: grid;
+    display: block;
 }
 footer{
     background-color: #1d2b59;
