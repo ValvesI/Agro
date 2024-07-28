@@ -134,5 +134,9 @@ footer{
     .diminui1{
         width: 10%;
     }
+    .emails{
+        display: none;
+    }
 
 }
+
