@@ -86,9 +86,7 @@ header{
     align-items: center;
     flex-wrap: wrap;
 }
-.campos{
-    width: 25%;
-}
+
 .container1{
     display: none;
 }
@@ -117,6 +115,9 @@ footer{
     margin: 0;
     padding: 10px;
   text-align: center;
+}
+.campos{
+    width: 25%;
 }
 @media screen and (max-width: 401px) {
     .some{
