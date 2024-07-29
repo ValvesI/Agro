@@ -119,6 +119,9 @@ footer{
 #campos{
     width: 25%;
 }
+.after-campos{
+    padding-left: 10px;
+}
 @media screen and (max-width: 401px) {
     .some{
         display: none;
