@@ -116,7 +116,7 @@ footer{
     padding: 10px;
   text-align: center;
 }
-.campos{
+#campos{
     width: 25%;
 }
 @media screen and (max-width: 401px) {
