@@ -86,6 +86,9 @@ header{
     align-items: center;
     flex-wrap: wrap;
 }
+.campos{
+    width: 25%;
+}
 .container1{
     display: none;
 }
